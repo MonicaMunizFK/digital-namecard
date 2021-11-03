@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:monica.muñiz@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+57 3174394915
 item1.ADR;type=WORK;type=pref:;;Av. Carrera 7 # 155c - 20\nPiso 40\nBogotá, Colombia
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.fresenius-kabi.com/co/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
